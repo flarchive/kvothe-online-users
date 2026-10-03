@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of kvothe/online-users.** Not for installation: use [Packagist](https://packagist.org/packages/kvothe/online-users) or the [upstream repository](https://github.com/oaklinq/flarum-ext-online-users).
 
-**0** versions archived · Latest: [`0.4.0`](https://github.com/flarchive/kvothe-online-users/tree/archive/v0.4.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`0.4.0`](https://github.com/flarchive/kvothe-online-users/tree/archive/v0.4.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.2.0` | 2018-02-24 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-online-users/tree/archive/v0.2.0) |
+| `0.3.0` | 2018-04-22 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-online-users/tree/archive/v0.3.0) |
+| `0.4.0` | 2019-03-04 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/kvothe-online-users/tree/archive/v0.4.0) |
+| `v0.1.0` | 2018-01-10 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/kvothe-online-users/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/kvothe-online-users.json](https://github.com/flarchive/archive-index/blob/main/packages/kvothe-online-users.json)
 
